@@ -20,11 +20,11 @@ public class AutentikointiTest {
     private final String TESTATTAVAN_URL = "http://hmlsolutions.com/ryhma2/sivu/public_html";
 
     private final String OPISKELIJA_TUNNUS = "55555";
-    private final String OPETTAJA_TUNNUS = "55555"; // FIXME: 2/27/16
+    private final String OPETTAJA_TUNNUS = "55555";
     private final String VAARA_TUNNUS = "VAARA_TUNNUS";
 
     private final String OPISKELIJA_SALASANA = "12345";
-    private final String OPETTAJA_SALASANA = "12345"; // FIXME: 2/27/16
+    private final String OPETTAJA_SALASANA = "12345";
     private final String VAARA_SALASANA = "VAARA_SALASANA";
 
     private WebDriver driver;
