@@ -19,8 +19,8 @@ public class AutentikointiTest {
 
     private final String TESTATTAVAN_URL = "http://hmlsolutions.com/ryhma2/sivu/public_html";
 
-    private final String OPISKELIJA_TUNNUS = "55555";
-    private final String OPETTAJA_TUNNUS = "55555";
+    private final String OPISKELIJA_TUNNUS = "33333";
+    private final String OPETTAJA_TUNNUS = "44444";
     private final String VAARA_TUNNUS = "VAARA_TUNNUS";
 
     private final String OPISKELIJA_SALASANA = "12345";
