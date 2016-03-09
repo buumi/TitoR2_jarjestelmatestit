@@ -27,7 +27,7 @@ public class OpiskelijaTest {
     private final String USERNAME = "buhmen";
     private final String ACCESS_KEY = System.getenv("SAUCE_ACCESS_KEY");
     private final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
-    private final String TESTATTAVAN_URL = "http://hmlsolutions.com/ryhma2/sivu/tatu";
+    private final String TESTATTAVAN_URL = "http://hmlsolutions.com/ryhma2/tatu";
     private final String RESET_URL = "http://hmlsolutions.com/ryhma2/sivu/tests/selenium_reset.php";
 
     private WebDriver driver;
