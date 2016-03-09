@@ -17,7 +17,7 @@ public class AutentikointiTest {
     private final String ACCESS_KEY = System.getenv("SAUCE_ACCESS_KEY");
     private final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 
-    private final String TESTATTAVAN_URL = "http://hmlsolutions.com/ryhma2/sivu/public_html";
+    private final String TESTATTAVAN_URL = "http://hmlsolutions.com/ryhma2/tatu";
 
     private final String OPISKELIJA_TUNNUS = "33333";
     private final String OPETTAJA_TUNNUS = "44444";
